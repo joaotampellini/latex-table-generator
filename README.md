@@ -10,7 +10,7 @@ An interactive, web-based tool for building high-quality LaTeX tables with suppo
 - Optional `adjustbox` support for wide tables
 - Preformatted "econ style" layout with column numbers in appropriate places
 
-## 🔧 Features
+#  Features
 - Live LaTeX preview
 - Easy addition/removal of rows and columns
 - Toggleable alignment settings
